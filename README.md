@@ -1,6 +1,6 @@
 <a href="https://www.sparkpost.com"><img src="https://www.sparkpost.com/sites/default/files/attachments/SparkPost_Logo_2-Color_Gray-Orange_RGB.svg" width="200px"/></a>
 
-[Sign up](https://app.sparkpost.com/sign-up?src=Dev-Website&sfdcid=70160000000pqBb) for a SparkPost account and visit our [Developer Hub](https://developers.sparkpost.com) for even more content.
+[Sign up](https://app.sparkpost.com/join?src=Dev-Website&sfdcid=70160000000pqBb) for a SparkPost account and visit our [Developer Hub](https://developers.sparkpost.com) for even more content.
 
 This sample app demonstrates how to send email with Python and [python-sparkpost](https://github.com/SparkPost/python-sparkpost) on the Google App Engine flexible environment.
 
@@ -11,7 +11,7 @@ This sample app demonstrates how to send email with Python and [python-sparkpost
 
 ### Setup
 
-1. Sign up for a SparkPost account [here](https://app.sparkpost.com/sign-up).
+1. Sign up for a SparkPost account [here](https://app.sparkpost.com/join).
 
 1. Create an API key with *Transmissions: read/write* privilege [here](https://app.sparkpost.com/account/credentials).
 
